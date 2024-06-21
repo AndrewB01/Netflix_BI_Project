@@ -1,1 +1,1 @@
-# Netflix_BI_Project
+# Netflix BI Project
