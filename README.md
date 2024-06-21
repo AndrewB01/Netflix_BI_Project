@@ -28,3 +28,11 @@ question to solve:
     - filter Country to remove
         - blanks
 ## Data Modeling
+1) Create a new column, encapsulate all types into 2 main categories, "TV" and "Movies
+2) Create a new column to better define Genre and delete sub genres in the clasification
+3) Create and organize folders by attributes, measures, modeling and an additional hidden folder to store those columns that will not be available in the report view
+4) Create calculation table within the model
+5) Create calculations
+     - #Titles
+     - #Votes
+     - AVG Rating 
